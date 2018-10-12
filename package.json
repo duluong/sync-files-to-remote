@@ -1,0 +1,15 @@
+{
+  "name": "middle",
+  "version": "1.0.0",
+  "description": "sync s3 bucket and local directory",
+  "main": "app_down.js",
+  "dependencies": {
+    "aws-sdk": "^2.300.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "duluong",
+  "license": "ISC"
+}
